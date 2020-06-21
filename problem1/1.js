@@ -16,4 +16,4 @@ while (a % 7 == 0 && b % 7 == 0) {
   a = a / 7
   b = b / 7
 }
-console.log(a + "/" + b)
+alert(a + "/" + b)

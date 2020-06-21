@@ -5,4 +5,4 @@ for (i = 160; i <= 2048; i++) {
   } else if (i % 2 != 0) {
     sum += 0;
   }
-}
+}alert(sum)
