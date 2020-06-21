@@ -2,7 +2,7 @@ let n = prompt("Add n")
 let x = 0
 let y = 1
 let newX;
-let newY;
+
 //0 1 1 2 3 5 8 13...
 //x y newX newX newX...
 function result(n) {
